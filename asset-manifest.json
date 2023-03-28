@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Multi-Step-Form-React.js/static/css/main.d48cda4f.css",
-    "main.js": "/Multi-Step-Form-React.js/static/js/main.40cb33ca.js",
+    "main.css": "/Multi-Step-Form-React.js/static/css/main.7a9e6cdd.css",
+    "main.js": "/Multi-Step-Form-React.js/static/js/main.20d3b369.js",
     "static/media/background-dekstop.svg": "/Multi-Step-Form-React.js/static/media/background-dekstop.6918153f38678372ceb1.svg",
     "static/media/background-mobile.svg": "/Multi-Step-Form-React.js/static/media/background-mobile.ad41661b40ca0b967f3a.svg",
     "static/media/thankyou.svg": "/Multi-Step-Form-React.js/static/media/thankyou.65a02ac02c11d573566ee37fb06ff650.svg",
     "index.html": "/Multi-Step-Form-React.js/index.html",
-    "main.d48cda4f.css.map": "/Multi-Step-Form-React.js/static/css/main.d48cda4f.css.map",
-    "main.40cb33ca.js.map": "/Multi-Step-Form-React.js/static/js/main.40cb33ca.js.map"
+    "main.7a9e6cdd.css.map": "/Multi-Step-Form-React.js/static/css/main.7a9e6cdd.css.map",
+    "main.20d3b369.js.map": "/Multi-Step-Form-React.js/static/js/main.20d3b369.js.map"
   },
   "entrypoints": [
-    "static/css/main.d48cda4f.css",
-    "static/js/main.40cb33ca.js"
+    "static/css/main.7a9e6cdd.css",
+    "static/js/main.20d3b369.js"
   ]
 }
