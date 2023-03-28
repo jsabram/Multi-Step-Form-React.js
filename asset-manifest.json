@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.1e55deda.css",
-    "main.js": "/react-gh-pages/static/js/main.5b47b968.js",
-    "static/media/background-dekstop.svg": "/react-gh-pages/static/media/background-dekstop.6918153f38678372ceb1.svg",
-    "static/media/background-mobile.svg": "/react-gh-pages/static/media/background-mobile.ad41661b40ca0b967f3a.svg",
-    "static/media/thankyou.svg": "/react-gh-pages/static/media/thankyou.65a02ac02c11d573566ee37fb06ff650.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.1e55deda.css.map": "/react-gh-pages/static/css/main.1e55deda.css.map",
-    "main.5b47b968.js.map": "/react-gh-pages/static/js/main.5b47b968.js.map"
+    "main.css": "/Multi-Step-Form-React.js/static/css/main.d48cda4f.css",
+    "main.js": "/Multi-Step-Form-React.js/static/js/main.40cb33ca.js",
+    "static/media/background-dekstop.svg": "/Multi-Step-Form-React.js/static/media/background-dekstop.6918153f38678372ceb1.svg",
+    "static/media/background-mobile.svg": "/Multi-Step-Form-React.js/static/media/background-mobile.ad41661b40ca0b967f3a.svg",
+    "static/media/thankyou.svg": "/Multi-Step-Form-React.js/static/media/thankyou.65a02ac02c11d573566ee37fb06ff650.svg",
+    "index.html": "/Multi-Step-Form-React.js/index.html",
+    "main.d48cda4f.css.map": "/Multi-Step-Form-React.js/static/css/main.d48cda4f.css.map",
+    "main.40cb33ca.js.map": "/Multi-Step-Form-React.js/static/js/main.40cb33ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e55deda.css",
-    "static/js/main.5b47b968.js"
+    "static/css/main.d48cda4f.css",
+    "static/js/main.40cb33ca.js"
   ]
 }
